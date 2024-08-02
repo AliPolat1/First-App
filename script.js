@@ -115,5 +115,5 @@ console.log(ad.replaceAll("Fırat", "Polat"))
 console.log(ad.indexOf("A"))
 console.log(ad.startsWith(" "))
 console.log(ad.endsWith("t"))
-console.log(ad.match(/li/   ))
+console.log(ad.match(/li/))
 */
