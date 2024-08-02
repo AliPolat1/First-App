@@ -102,7 +102,7 @@ for ( let i = 0; i < 5 ; i++){
     console.log(Math.floor(Math.random() * 11))
 }
 */
-
+/*
 let ad = "  Ali Fırat  "
 console.log(ad)
 console.log(ad.toUpperCase())
@@ -115,3 +115,5 @@ console.log(ad.replaceAll("Fırat", "Polat"))
 console.log(ad.indexOf("A"))
 console.log(ad.startsWith(" "))
 console.log(ad.endsWith("t"))
+console.log(ad.match(/li/   ))
+*/
