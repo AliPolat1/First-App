@@ -16,4 +16,4 @@ let b = 6
 //console.log(a>b)
 
 
-console.log( "Ali".lenght == "Mehmet".length )
+//console.log( "Ali".lenght == "Mehmet".length )
